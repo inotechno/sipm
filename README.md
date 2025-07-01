@@ -49,7 +49,23 @@ Aplikasi manajemen proyek yang saya kembangkan untuk mendukung aktivitas operasi
 
 ## 📸 Screenshot (Opsional)
 
-Tambahkan gambar antarmuka pengguna di folder `screenshots/` atau link GCS untuk memberikan gambaran visual sistem ini.
+### Dashboard Attendance
+![image](https://github.com/user-attachments/assets/98d0c563-fdee-4de5-9384-2690d1084ca7)
+
+### Dashboard Activity
+![image](https://github.com/user-attachments/assets/924a9169-55fe-453f-bc8d-a50c752d6c6b)
+
+### Attendance
+![image](https://github.com/user-attachments/assets/e5484a14-6557-493c-8f15-13c1f5d7bbfb)
+
+### Activity
+![image](https://github.com/user-attachments/assets/3dedd5b9-e8ef-4cba-9f9d-290f378fd04a)
+
+### Add Activity
+![image](https://github.com/user-attachments/assets/3701254d-455b-4e49-a9d8-e3c992adb371)
+
+### Report Activity
+![image](https://github.com/user-attachments/assets/24acdafd-3ca0-4576-ba0f-4323042d982b)
 
 ---
 
@@ -58,10 +74,3 @@ Tambahkan gambar antarmuka pengguna di folder `screenshots/` atau link GCS untuk
 - Email: 2ahmadfatoni0@gmail.com
 - LinkedIn: [linkedin.com/in/2ahmadfatoni0](https://linkedin.com/in/2ahmadfatoni0)  
 - Website: [inotechno.my.id](https://inotechno.my.id)
-
----
-
-## 📝 Lisensi
-
-Proyek ini bersifat pribadi sebagai bagian dari portfolio. Untuk kolaborasi atau permintaan demo, silakan hubungi saya langsung.
-
